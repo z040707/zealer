@@ -1,0 +1,1 @@
+import{U as t}from"./index-ce7fb889.js";const s=e=>t({method:"POST",url:"/moments/allcontent",data:e}),n=e=>t({method:"POST",url:"/usercenter/rebuildNewPrizeUserList",data:e}),o=e=>t({method:"POST",url:"/usercenter/prizeuserlist",data:e}),u=e=>t({method:"POST",url:"/usercenter/applysuclist",data:e});export{n as a,u as b,o as c,s as p};

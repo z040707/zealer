@@ -1,0 +1,1 @@
+import{S as o}from"./index-ce7fb889.js";const i=t=>o({method:"POST",url:"/activity/contentlist",data:t}),r=t=>o({method:"POST",url:"/group/activitylist",data:t}),s=t=>o({method:"POST",url:"/group/wholelotterylist",data:t});export{i as a,s as b,r as g};
